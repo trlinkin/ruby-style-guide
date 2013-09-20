@@ -322,7 +322,7 @@ Translations of the guide are available in the following languages:
       end
     ```
 
-* Use empty lines between `def`s and to break up a method into logical
+* Use empty lines between `def`s to break up a method into logical
   paragraphs.
 
     ```Ruby
